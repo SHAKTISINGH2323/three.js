@@ -13,7 +13,9 @@ Threejs is a javascript library that allow us to make 3D objects and an environm
 ## demonstration 1:
 It is a simple kickstarter project where i made a 3D cuboid and do characteristics manipulation by a controller made on the canvas
 and we can rotate that 3D cuboid from the arrow keys.
+# files : cube_manipulations.js ,cube_manipulations.html
 
 ## demostration 2:
 
 In this there is drag and drop feature using threejs where you drag and drop your file and get an 3D picture of your image and there are two feature rotation speed and scale of 3D model which can be manipulated.
+# files : drag_and_drop.js ,drag_and_drop.html
