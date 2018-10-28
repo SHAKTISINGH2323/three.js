@@ -1,3 +1,5 @@
+//demonstration number 1
+//to demostrate the cube to rotate and scale using fixed keys arrows (up,down,left,right)
 var scene,renderer,camera;
 var control;
 scene=new THREE.Scene();
