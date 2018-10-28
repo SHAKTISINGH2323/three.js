@@ -1,7 +1,7 @@
 # threejs_Projects
 
-This repository includes all the threejs projects that i have made.Threejs is a javascript library that allow us to 
-make 3D objects and an environment on the web.ie provides the WebVR functionality. 
+This repository includes all the threejs demostrations as a single project to understand and build different things in each demos that i have made.
+Threejs is a javascript library that allow us to make 3D objects and an environment on the web.ie provides the WebVR functionality. 
 
 # How to setup
 ### Two Ways of including Threejs on your projects
